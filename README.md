@@ -15,17 +15,48 @@ The goal is to help business users monitor KPIs, identify trends, and make data-
 
 ---
 
+## 📸 Dashboard Preview
+
+<table>
+<tr>
+<td align="center">
+<b>Conversion Dashboard</b><br><br>
+<img src="Dashboard/dash_1.png" width="450">
+</td>
+<td align="center">
+<b>Social Media Dashboard</b><br><br>
+<img src="Dashboard/dash_2.png" width="450">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Customer Reviews Dashboard</b><br><br>
+<img src="Dashboard/dash_3.png" width="450">
+</td>
+<td align="center">
+<b>Analysis Dashboard</b><br><br>
+<img src="Dashboard/dash_4.png" width="450">
+</td>
+</tr>
+</table>
+
+---
+
 ## 📂 Dashboard Pages
 
 ### 1. Conversion Dashboard
+
 Analyzes conversion performance across products and time.
 
 **KPIs**
+
 - Conversion Rate
 - Monthly Conversion Trend
 - Product-wise Conversion Rate
 
 **Visuals**
+
 - KPI Cards
 - Line Chart
 - Bar Chart
@@ -39,11 +70,13 @@ Analyzes conversion performance across products and time.
 Tracks engagement metrics collected from social media campaigns.
 
 **KPIs**
+
 - Total Views
 - Total Clicks
 - Total Likes
 
 **Visuals**
+
 - KPI Cards
 - Donut Chart
 - Monthly Trend Analysis
@@ -57,11 +90,13 @@ Tracks engagement metrics collected from social media campaigns.
 Measures customer satisfaction using review data.
 
 **KPIs**
+
 - Average Rating
 - Product Ratings
 - Review Distribution
 
 **Visuals**
+
 - KPI Card
 - Line Charts
 - Product Analysis
@@ -80,8 +115,3 @@ Provides a consolidated dashboard with filters for:
 to analyze all business metrics interactively.
 
 ---
-
-
----
-
-## ⭐ If you found this project useful, consider giving it a Star on GitHub!
